@@ -3,3 +3,6 @@
 Changed on 9/9 @ 12
 deploying on docker container using ansible
 latest change @ 9/11.
+
+cicd using ansible...completed 
+:)
